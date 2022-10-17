@@ -158,7 +158,8 @@ body {
     width: 100%;
     height: 100vh;
     z-index: 0;
-    background: local("./images/fss.jpg") no-repeat;
+    background-image: url("./images/fss.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
 }
