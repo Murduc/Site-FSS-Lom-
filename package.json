@@ -1,0 +1,11 @@
+{
+  "name": "site-fss",
+  "version": "1.0.0",
+  "description": "Site de la Faculté des Sciences de la Santé de l'Université de Lomé",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./styles/style.css"
+  },
+  "author": "Dr JAMES ANIFRANI | Développeur Web",
+  "license": "ISC"
+}
